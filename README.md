@@ -1,1 +1,2 @@
-# Generative-Adversarial-Network-GAN-
+# Deep Convolutional Generative Adversarial Network (DCGAN).
+
